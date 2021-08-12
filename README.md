@@ -1,1 +1,1 @@
-# vehicle-sales-prediction
+# vehicle-sales-pred-app

@@ -46,6 +46,8 @@ This file contains a function used in the app.py file to process the user input 
 
 ## Future work
 
+To improve the model and number of available vehicles, I will build a web scraper to collect more data.
+
 ## Resources
 
 1. [Kaggle: Vehicle dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)

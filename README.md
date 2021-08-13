@@ -44,10 +44,6 @@ This file is the pickle containing the hyperparameter tuned SVR after being trai
 
 This file contains a function used in the app.py file to process the user input (i.e., create dummy variables and scale) so that the model can make a prediction.
 
-## Future work
-
-To improve the model and number of available vehicles, I will build a web scraper to collect more data.
-
 ## Resources
 
 1. [Kaggle: Vehicle dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)

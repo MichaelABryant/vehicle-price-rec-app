@@ -13,6 +13,6 @@ This repository is for hosting the files used to build the [Heroku web app](http
 ## Resources
 
 1. [Kaggle: Vehicle dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
-2. [YouTube: Data Science Project from Scratch - Part 5 (Model Building) by Ken Jee](https://www.youtube.com/watch?v=7O4dpR9QMIM)
+2. [YouTube: Live- Implementation of End To End Kaggle Machine Learning Project With Deployment by Krish Naik](https://www.youtube.com/watch?v=p_tpQSY1aTs)
 
 

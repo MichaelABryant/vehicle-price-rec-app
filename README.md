@@ -2,6 +2,6 @@
 
 [Link to app](https://vehicle-pricepred.herokuapp.com/)
 
-[Repo for EDA and modeling](https://github.com/MichaelBryantDS/veh-sale-pred)
+[Link for EDA and modeling repo](https://github.com/MichaelBryantDS/veh-sale-pred)
 
 

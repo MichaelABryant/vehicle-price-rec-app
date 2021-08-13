@@ -1,6 +1,16 @@
 # Vehicle Sales Price Prediction App (Python/HTML)
 
-This repository is for hosting the files used to build the [Heroku web app](https://predict-vehicle-price.herokuapp.com/) based on [the analysis and models built on a vehicle sales dataset](https://github.com/MichaelBryantDS/vehicle-price-pred). Below you will find an overview of the code and files.
+This repository is for hosting the files used to build the [Heroku web app](https://predict-vehicle-price.herokuapp.com/) based on [the analysis and models built on a vehicle sales dataset](https://github.com/MichaelBryantDS/vehicle-price-pred). An image of the front end is displayed in Figure 1. Below you will find an overview of the code and files.
+
+<div align="center">
+  
+<figure>
+<img src="images/web-app.JPG"><br/>
+  <figcaption>Figure 1: Front end of Heroku app using the SVR model.</figcaption>
+</figure>
+<br/><br/>
+  
+</div>
 
 ### Code Used 
 

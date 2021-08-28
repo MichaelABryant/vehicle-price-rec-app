@@ -5,7 +5,7 @@ This repository is for hosting the files used to build the [Heroku web app](http
 <div align="center">
   
 <figure>
-<img src="images/web-app.JPG"><br/>
+<img src="images/frontend.JPG"><br/>
   <figcaption>Figure 1: Front end of Heroku app using the SVR model.</figcaption>
 </figure>
 <br/><br/>

@@ -48,5 +48,6 @@ This file contains a function used in the app.py file to process the user input 
 
 1. [Kaggle: Vehicle dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
 2. [YouTube: Live- Implementation of End To End Kaggle Machine Learning Project With Deployment by Krish Naik](https://www.youtube.com/watch?v=p_tpQSY1aTs)
+3. [IMAGECOLORPICKER.com](https://imagecolorpicker.com/)
 
 
